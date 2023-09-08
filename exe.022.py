@@ -1,9 +1,6 @@
 #nome é a variável para o nome da pessoa
 nome = input('Digite o seu nome completo: ')
 
-#nome_corte é o nome desconsiderando os espaços em branco
-nome_corte = nome.strip()
-
 #nome_dividido é a lista com o nome seprado
 nome_dividido = nome.split()
 
