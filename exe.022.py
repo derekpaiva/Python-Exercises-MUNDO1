@@ -1,5 +1,5 @@
 #nome é a variável para o nome da pessoa
-nome = input('Digite o seu nome completo: ')
+nome = str(input('Digite o seu nome completo: '))
 
 #nome_dividido é a lista com o nome seprado
 nome_dividido = nome.split()
